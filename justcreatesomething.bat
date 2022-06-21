@@ -3,12 +3,10 @@ title Quizy Multi tool
 pause
 echo welcome to quizy multi tool.
 color 3
-pause
 set /p main=Enter username:
 echo.
 set /p pass=Enter Pass:
 if %user% == user if %pass% == user goto main
-pause
 echo password succes
 echo welcome to main tool
 echo 1 - putty 2 - google
