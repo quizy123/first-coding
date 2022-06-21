@@ -5,6 +5,7 @@ color 3
 set /p main=Enter username:
 echo.
 set /p pass=Enter Pass:
+pause
 if %user% == user if %pass% == user goto main
 echo password succes
 echo welcome to main tool
