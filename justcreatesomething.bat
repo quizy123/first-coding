@@ -1,6 +1,5 @@
 @echo off
 title Quizy Multi tool 
-pause
 echo welcome to quizy multi tool.
 color 3
 set /p main=Enter username:
